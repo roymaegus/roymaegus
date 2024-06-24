@@ -1,6 +1,3 @@
-<h1>Hello, I'm Roy, an <a href="[https://www.linkedin.com/in/roymaegus/](https://www.linkedin.com/in/roymaegus/
-)">IT Professional</a>☺</h1>
-
 <h1>Hello, I'm Roy, an <a href="https://www.linkedin.com/in/roymaegus/">IT Professional</a>☺</h1>
 
 
