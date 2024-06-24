@@ -1,4 +1,4 @@
-<h1>Hello, I'm Roy, an <a href="[www.linkedin.com/in/roymaegus](https://www.linkedin.com/in/roymaegus/
+<h1>Hello, I'm Roy, an <a href="[https://www.linkedin.com/in/roymaegus/](https://www.linkedin.com/in/roymaegus/
 )">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
